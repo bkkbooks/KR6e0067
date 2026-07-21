@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0067_000-X.yaml, hash: 'sha256:3e1f984378f76dc348ccfac14b943101082544ecca6746253eb0cdeab00f13d3'}
+  - {seq: 0, filename: KR6e0067_000-X.yaml, hash: 'sha256:b6d5f9dfdef3c0d4c9f6052ffe16dd9850c46c6c526f752b72c6f35105459409'}
   - {seq: 1, filename: KR6e0067_001-X.yaml, hash: 'sha256:b196294c7f97f6c77201ab0dd0ea1c51bc8f9d225e28f5925a5c2b028a631859'}
   - {seq: 2, filename: KR6e0067_002-X.yaml, hash: 'sha256:f57ae5f525925a862febf6f8425a827f266efd575262dbba6fcf88f8d18af6b6'}
   - {seq: 3, filename: KR6e0067_003-X.yaml, hash: 'sha256:546de00b9440578bd1a972bdb7a8d0170ce3f240553d6874e9069b69f6dde532'}
   - {seq: 4, filename: KR6e0067_004-X.yaml, hash: 'sha256:f063c9a3621bf62fd12fd923ec268a8eb3fd9f94d73c21a858c841e1bf6ea05e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0067_000-X.markers.yaml, hash: 'sha256:762739960e2fd7c0ad65996a342def7ca0e44af8495d4a98a09cc5f9b80e798e'}
+  - {seq: 0, role: markers, filename: assets/KR6e0067_000-X.markers.yaml, hash: 'sha256:ec94acbc640a3043613d4feb1fc995f95e0443a37869615a931fb121410ddc8e'}
   - {seq: 1, role: markers, filename: assets/KR6e0067_001-X.markers.yaml, hash: 'sha256:81568ac558ef78e70fa53a91f7406d013f1c2835b4a5f3026afc1d4d55a7b003'}
   - {seq: 2, role: markers, filename: assets/KR6e0067_002-X.markers.yaml, hash: 'sha256:5a1640a9f04385b7a4d963994e234920b92d276efab0927c77f9cd82c0fabe3d'}
   - {seq: 3, role: markers, filename: assets/KR6e0067_003-X.markers.yaml, hash: 'sha256:10e313570b2f585919eb04e1e80ec8eca7aa75793045ee0a5219d3588906d385'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0067_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 225-A 李長者華嚴經合論序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0067_X_000-mulu-2
     span:
-    - front
+    - body
     - 1589
     - 1589
   label: No. 225-B 李長者事迹
@@ -691,4 +691,4 @@ table_of_contents:
   label: 入法界品
   type: mulu
   level: 1
-hash: sha256:fa7c30caaed19aadd14fda23c278614d0e13d31dc34952a61f18a2bc008f2f89
+hash: sha256:e7cb053d0f74677349ce3c043b51a6506121f720168f10e1d42867dc10a73ed3
